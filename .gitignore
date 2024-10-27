@@ -1,0 +1,13 @@
+*~
+*.exe
+*.gz
+*.pdf
+*.sqlite
+*.swp
+*.tar
+*.tgz
+*.txt
+*.zip
+.DS_Store
+.idea/
+testdata/
